@@ -14,7 +14,7 @@ categories = ["development-tools"]
 [dependencies]
 lazy_static = "1"
 maplit = "1"
-nom = "6.2.1"
+nom = "7.0.0-alpha1"
 regex = "1"
 unicode_categories = "0.1.1"
 
